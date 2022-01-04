@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  activity_status: MyString
+  show_profile: MyString
+  message_permission: MyString
+  user: one
+
+two:
+  activity_status: MyString
+  show_profile: MyString
+  message_permission: MyString
+  user: two
