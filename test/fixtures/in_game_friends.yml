@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  in_game_username: MyString
+  in_game_status: MyString
+
+two:
+  in_game_username: MyString
+  in_game_status: MyString

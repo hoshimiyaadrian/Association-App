@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  game_name: MyString
+  publisher: MyString
+  user: one
+  in_game_friend: one
+
+two:
+  game_name: MyString
+  publisher: MyString
+  user: two
+  in_game_friend: two
